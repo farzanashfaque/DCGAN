@@ -1,0 +1,2 @@
+Generation of handwritten digits with a Deep Convolutional Generative Adversarial Network. 
+Handwritten digits are generated from a noise input of dimension 100x1
